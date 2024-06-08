@@ -52,3 +52,5 @@ public class RevistaRegistraController {
 		return ResponseEntity.ok(salida);
 	}
 }
+
+
