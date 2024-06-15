@@ -63,6 +63,7 @@ public class RevistaConsultaController {
 
 		return ResponseEntity.ok(lstSalida);
 	}
+	/*Prueba*/
 
 	private static String[] HEADERs = { "CÓDIGO", "NOMBRE", "FRECUENCIA", "FECHA CREACIÓN", "ESTADO", "PAÍS", "TIPO" };
 	private static String SHEET = "Listado de Revista";
