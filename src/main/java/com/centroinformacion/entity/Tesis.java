@@ -72,5 +72,9 @@ public class Tesis {
 	@ManyToOne(fetch = FetchType.LAZY)
 	@JoinColumn(name = "idUsuarioActualiza")
 	private Usuario usuarioActualiza;
+	
+	
+	
+	
    
 }
